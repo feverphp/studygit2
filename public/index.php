@@ -19,3 +19,4 @@ require __DIR__ . '/../thinkphp/start.php';
 // git add
 // git commit
 // git status
+// git add git commit git status
