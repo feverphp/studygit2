@@ -18,3 +18,4 @@ require __DIR__ . '/../thinkphp/start.php';
 // 添加一点说明git init
 // git add
 // git commit
+// git status
